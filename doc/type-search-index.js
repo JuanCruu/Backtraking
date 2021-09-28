@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tp4","l":"Backtracking"},{"p":"tp4","l":"Empleado"},{"p":"tp4","l":"Empresa"},{"p":"tp4","l":"Greedy"},{"p":"tp4","l":"MainBacktracking"},{"p":"tp4","l":"MainGreedy"}]
