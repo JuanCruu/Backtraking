@@ -1,1 +1,1 @@
-# Backtraking
+# an example of the algorithm
